@@ -1,0 +1,32 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>INFOSYS Registration Form</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body >
+<h1 style="font-size:50px; text-align:center; color:red; font-family:verdana;"><u>INFOSYS</u></h1>
+<p> Infosys Limited is an Indian multinational information technology company that provides business consulting, information technology and outsourcing services. The company was founded in Pune and is headquartered in Bangalore</p>
+<img src="https://tse2.mm.bing.net/th?id=OIP.2mhIawlrQDX10kDirgV-TwHaGJ&pid=Api&P=0" alt="INFOSYS" style="width:300px;height:200px;">
+<h3 style="color:purple; font-size:40px;text-align:"center;">Online Application For INFOSYS Exam</h3>
+<form style="font-size:23px;">
+Name:<input type="text"><br><br>
+Roll no:<input type="text"><br><br>
+Parent Details:<input type="text"><br><br>
+Aadhar Number:<input type="text"<br><br>
+<br>
+Address:<input type="text"<br><br>
+<br>
+Qualification:<br><br>
+<br>
+Courses completed:<br><br>
+<br>
+Xth CGPA:<input type="text"<br><br>
+<br>
+XIIth CGPA:<input type="text"<br><br>
+<br>
+<input type="button" value="upload resume"><br><br>
+<input type="button" value="upload photo"><br><br>
+<input style="color:blue;" type="submit">
+</body>
+</html>
